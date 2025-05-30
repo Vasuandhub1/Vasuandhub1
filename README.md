@@ -1,4 +1,6 @@
-![Coder Banner](https://i.imgur.com/q1vGLW2.png)
+<div style:{display:flex justify-item:center}>
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="80%" />
+</div>
 # 👋 Hi there, I'm Vasuandhub1!
 
 Welcome to my GitHub profile! I'm passionate about **Full-Stack Development**, **Real-Time Multiplayer Games**, and **Innovative Web Solutions**. Here’s a glimpse of what I’ve been working on.
