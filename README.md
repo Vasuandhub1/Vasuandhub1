@@ -1,3 +1,4 @@
+![Coder Banner](https://i.imgur.com/q1vGLW2.png)
 # 👋 Hi there, I'm Vasuandhub1!
 
 Welcome to my GitHub profile! I'm passionate about **Full-Stack Development**, **Real-Time Multiplayer Games**, and **Innovative Web Solutions**. Here’s a glimpse of what I’ve been working on.
