@@ -1,5 +1,5 @@
-<div style:{display:flex justify-item:center}>
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="80%" />
+<div align="center">
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="60%" />
 </div>
 # 👋 Hi there, I'm Vasuandhub1!
 
