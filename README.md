@@ -12,13 +12,14 @@ Welcome to my GitHub profile! I'm passionate about **Full-Stack Development**, *
 
 ## 🚀 My Key Projects
 
-### 📚 **Student Testing Platform (MERN Stack)**  
+### 📚 **Student Testing Platform (MERN Stack)** 
 A robust online testing platform built using MongoDB, Express, React, and Node.js.
 - **Features**:
   - Secure student authentication with token-based system.
   - Timed tests with persistent timer using Redux and localStorage.
   - Single-attempt enforcement for tests.
   - Dockerized setup for deployment on AWS using Docker Compose.
+  - Link : (https://test-hub-client.vercel.app)
 
 ### 🎮 **Real-Time Multiplayer Games**  
 Developed multiplayer games (Tic-Tac-Toe, Fastest Finger First) using Node.js and WebSocket.
@@ -57,23 +58,4 @@ Containerized major projects for streamlined deployment and scalability.
 
 ---
 
-## 🔥 Current Focus
-- Adding **Monaco Editor** and **language selection** to my coding platform.
-- Expanding my **multiplayer games suite** with real-time features.
-
----
-
-## 📸 Screenshots & Demos
-*(Add screenshots or links to your live projects here if available)*
-
----
-
-## 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-link-here)
-- [Portfolio/Website](https://your-website-link-here)
-- [Email](mailto:your-email-here)
-
----
-
-_This README.md showcases my work and growth as a developer. Feel free to explore my repositories!_
 
